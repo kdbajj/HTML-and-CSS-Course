@@ -36,10 +36,26 @@ li{
     font-size: 20px;
 }
 
-footer p{
+/* footer p{
+    font-size: 16px;
+} */
+
+#copyright{
     font-size: 16px;
 }
 
-article header p{
+#author{
     font-style: italic;
+    font-size: 18px; 
 }
+
+/* for class we use -> . and for id -> # */
+.related-author{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.related-posts{
+    list-style: none;
+}
+ /* comment */
