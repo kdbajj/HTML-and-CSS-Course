@@ -8,6 +8,6 @@
 
 <h2>The small project where i could practice HTML and CSS fundamentals</h2>
 <img src="/HTML-Fundamentals/materials/image.jpg"
-height="200"
-width="600">
+height="400"
+width="1000">
 <!-- ![Screenshot] -->
