@@ -5,11 +5,20 @@ h4,
 p,
 li{
     font-family: Arial, Helvetica, sans-serif;
+    color: #444;
+    /* margin-left: 2cm;
+    margin-right: 2cm; */
+
+}
+
+h1,
+h2,
+h3{
+    color: #b1158d;
 }
 
 
 h1 {
-    color: #a34cc5;
     font-size: 26 px;
     text-transform: uppercase;
     font-style: italic;
@@ -59,3 +68,19 @@ li{
     list-style: none;
 }
  /* comment */
+
+ .main-header{
+    background-color: #f7f7f7;
+ }
+
+ aside{
+    /* shorthand property, we can style
+    3 properties in one */
+    border-top: 4px solid #b1158d;
+    border-bottom: 4px solid #b1158d;
+    background-color: #f7f7f7;
+ }
+
+ body{
+    /* background-color: #ffffff72; */
+ }
