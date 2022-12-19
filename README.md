@@ -13,7 +13,7 @@ width="700">
 <!-- ![Screenshot] -->
 
 <h2>HTML Challenge</h2>
-<p>I did simple page, which i had to recreate from project. While doing this page i learned fundamentals of HTML.</p>
+<p>I did simple page, which i had to recreate from the project. While doing this page i learned fundamentals of HTML like links, text effects, oridinary/unordinary lists and inserting an image. </p>
 <h3>Here are the effects:</h3>
 <img src="/HTML-Fundamentals/materials/challengeHTML.jpg"
 height="400"
