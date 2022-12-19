@@ -126,3 +126,14 @@ color: #b1158d;
     color: #f7f7f7;
  }
  /* LVHA - link, visited, hover, active */
+
+ /* Selectors priority: */
+ /* 
+ 1.ID (#) selector
+ 2.Class (.) selector
+ 3.Element (p,h2,li,div,etc.) selector
+ 
+ If it has more than 1 element last one 
+ selectors has the highest priority.
+ This rule works for all of three selectors.
+ */
