@@ -14,7 +14,7 @@ width="700">
 
 <h2>HTML Challenge</h2>
 <p>I did simple page, which i had to recreate from project. While doing this page i learned fundamentals of HTML.</p>
-<h4>Here are the effects:</h4>
+<h3>Here are the effects:</h3>
 <img src="/HTML-Fundamentals/materials/challengeHTML.jpg"
 height="400"
 width="500">
