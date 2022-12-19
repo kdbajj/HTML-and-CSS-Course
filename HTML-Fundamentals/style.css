@@ -1,13 +1,8 @@
-h1,
-h2,
-h3,
-h4,
-p,
-li{
-    font-family: Arial, Helvetica, sans-serif;
-    color: #444;
-    /* margin-left: 2cm;
-    margin-right: 2cm; */
+body{
+   /* background-color: #ffffff72; */
+   color: #444;
+   font-family: Arial, Helvetica, sans-serif;
+   border-top: 10px solid #8b1bb4;
 }
 
 h1,
@@ -80,9 +75,6 @@ li{
     background-color: #f7f7f7;
  }
 
- body{
-    /* background-color: #ffffff72; */
- }
 
  /* .first-li{
     font-weight: bold;
@@ -125,10 +117,15 @@ color: #b1158d;
     font-style: italic;
     color: #f7f7f7;
  }
+
  /* LVHA - link, visited, hover, active */
 
- /* Selectors priority: */
- /* 
+nav a:link{
+    font-size: 18px;
+}
+
+ /* CSS Theory 1: Selectors priority: 
+
  1.ID (#) selector
  2.Class (.) selector
  3.Element (p,h2,li,div,etc.) selector
@@ -136,4 +133,9 @@ color: #b1158d;
  If it has more than 1 element last one 
  selectors has the highest priority.
  This rule works for all of three selectors.
+
+ CSS Theory 2: Selectors priority:
+ Elements selectors have more higher priority
+ than the universal selectors (for example
+ body)
  */
