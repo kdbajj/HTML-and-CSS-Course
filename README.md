@@ -1,6 +1,6 @@
 # Complete HTML and CSS Course
 
-<h2>What does the code contains?</h3>
+<h2>What does the repository contains?</h3>
 <p>The repository contains everything that i learned on the <a href="https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/learn/">Build Responsive Real-World Websites with HTML and CSS
 </a> on the udemy platform.</p>
 <h2>Knowledge</h3>
