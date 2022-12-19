@@ -18,3 +18,10 @@ width="700">
 <img src="/HTML-Fundamentals/materials/challengeHTML.jpg"
 height="400"
 width="500">
+
+<h2>CSS Challenge</h2>
+<p>It's the same page which i made in HTML challenge, but in this challenge i added CSS. While doing this page i learned the fundamentals of CSS like selectors (id, class, element) priority, working with colors and pseudo-classes.
+<h3>Here are the effects:</h3>
+<img src="/HTML-Fundamentals/materials/css-challenge.jpg"
+height="300"
+width="700">
