@@ -9,5 +9,5 @@
 <h2>The small project where i could practice HTML and CSS fundamentals</h2>
 <img src="/HTML-Fundamentals/materials/image.jpg"
 height="400"
-width="900">
+width="800">
 <!-- ![Screenshot] -->
