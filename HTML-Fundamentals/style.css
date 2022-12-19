@@ -8,7 +8,6 @@ li{
     color: #444;
     /* margin-left: 2cm;
     margin-right: 2cm; */
-
 }
 
 h1,
@@ -100,6 +99,30 @@ li{
  /* li:nth-child(odd){
 color: #b1158d;
  } */
- article p:last-child{
+ 
+ /* Misconception: this won't work! */
+ article p:first-child{
     color: #b1158d;
  }
+
+ /* Styling links */
+ a:link {
+    color: #b1158d;
+    text-decoration: none;
+ }
+ a:visited {
+    color: #b1158d;
+ }
+
+ a:hover{
+    color: #41094e;
+    font-weight: bold;
+    text-decoration: underline #41094e;
+ }
+
+ a:active{
+    background-color: black;
+    font-style: italic;
+    color: #f7f7f7;
+ }
+ /* LVHA - link, visited, hover, active */
