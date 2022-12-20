@@ -14,7 +14,7 @@ height="400"
 width="700">
 <!-- ![Screenshot] -->
 
-[Link to the page 😊](https://html-css-project-kd.netlify.app/)
+## [Link to the page 😊](https://html-css-project-kd.netlify.app/)
 
 <h2>HTML Challenge</h2>
 <p>I made a simple page, which i had to recreate from the project. While doing this page i learned the fundamentals of HTML like links, font styles, oridinary/unordinary lists and inserting an image. </p>
