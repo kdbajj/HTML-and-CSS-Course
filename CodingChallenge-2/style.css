@@ -7,10 +7,12 @@ body {
     background-color: #f7f7f7;
     text-transform: uppercase;
     text-align: center;
+    margin-bottom: 0px;
 }
 
 .product{
     border:5px solid #000;
+    width: 825px;
 }
 
 .price{
@@ -45,9 +47,15 @@ body {
     background-color: #000;
     color: #ffff;
     text-transform: uppercase;
+    width: 825px;
+    height: 50px;
 }
 .add-cart:hover{
     background-color: #f7f7f7;
     color: #000;
-    border: none;
+    border: 3px solid black;
+    margin-bottom: 0;
+ }
+ .container{
+    margin:auto 0;
  }
