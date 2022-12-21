@@ -111,6 +111,10 @@ li:last-child{
 .related-posts{
     list-style: none;
 }
+.code-photo{
+    width: 100%;
+    height: auto;
+}
  /* comment */
 
 
