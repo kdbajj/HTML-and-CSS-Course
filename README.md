@@ -26,4 +26,4 @@ width="500">
 <h3>Here are the effects:</h3>
 <img src="/HTML-Fundamentals/materials/css-challenge.jpg"
 height="300"
-width="700">
+width="400">
