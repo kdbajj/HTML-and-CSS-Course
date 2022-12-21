@@ -27,7 +27,15 @@ body{
     border-bottom: 4px solid #b1158d;
     background-color: #f7f7f7;
     padding: 50px;
- }
+}
+
+article{
+    margin-bottom: 60px;
+}
+
+nav a:link{
+    font-size: 18px;
+}
 
 h1,
 h2,
@@ -62,7 +70,7 @@ h3{
     margin-top: 40px;
 }
 h4{
-    font-size: 30px;
+    font-size: 20px;
     text-transform: uppercase;
     text-align: center;
 }
@@ -147,9 +155,6 @@ color: #b1158d;
 
  /* LVHA - link, visited, hover, active */
 
-nav a:link{
-    font-size: 18px;
-}
 
  /* CSS Theory 1: Selectors priority: 
 
