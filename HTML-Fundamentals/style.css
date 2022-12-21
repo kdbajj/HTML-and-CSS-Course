@@ -17,7 +17,9 @@ body{
     /* styling bottom and top, and them left right */
     padding: 20px 40px;
     margin-bottom: 60px;
-
+    /* real height of the element is 80px + 20 px
+    (height plus padding) */
+    height: 80px; 
  }
 
  aside{
@@ -26,7 +28,8 @@ body{
     border-top: 4px solid #b1158d;
     border-bottom: 4px solid #b1158d;
     background-color: #f7f7f7;
-    padding: 50px;
+    padding: 50px 0;
+    width: 500px;
 }
 
 article{
