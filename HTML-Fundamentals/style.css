@@ -49,6 +49,7 @@ nav a:link{
     font-size: 18px;
 }
 
+/* SMALLER ELEMENTS */
 h1,
 h2,
 h3{
@@ -167,6 +168,14 @@ color: #b1158d;
     background-color: black;
     font-style: italic;
     color: #f7f7f7;
+ }
+
+ nav a:link{
+    background-color: #8b1bb4;
+    margin: 20px;
+    padding: 20px;
+
+    display:block;
  }
 
  /* LVHA - link, visited, hover, active */
