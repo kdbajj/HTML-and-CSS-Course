@@ -11,13 +11,13 @@ body{
 }
 .container{
     width: 800px;
-    margin-left: auto;
-    margin-right: auto; 
+    /* margin-left: auto;
+    margin-right: auto;  */
     /* both margins will calculate automatically
     by browser */
     margin: 0 auto;
     /* it works the same */
-    
+
 }
 .main-header{
     background-color: #f7f7f7;
