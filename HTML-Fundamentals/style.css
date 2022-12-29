@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
 }
+
 body{
    /* background-color: #ffffff72; */
    color: #444;
@@ -193,6 +194,39 @@ color: #b1158d;
     bottom:50px;
     right: 50px;
  }
+
+ /* pseudo-elements */
+ h1::first-letter{
+    font-style: normal;
+    margin: 5px;
+ }
+ p::first-line{
+    color: rgb(133, 25, 152);
+}
+
+h3 + p::first-line{
+    /* color: #41094e; */
+}
+
+h2{
+    position: relative;
+ }
+ 
+ h2::after {
+    content: "TOP";
+    background-color: rgb(96, 34, 76);
+    color: #f7f7f7;
+    font-size: 16px;
+    font-weight: bold;
+    display: inline-block;
+    padding: 5px 10px;
+    position: absolute;
+    top: -10px;
+    right: -25px;
+ }
+ /* h2::first-letter{W
+    font-size: 80px;
+ } */
  /* nav a:link{
     background-color: #8b1bb4;
     margin: 20px;
