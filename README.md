@@ -9,7 +9,7 @@
 <h2>The small project where i could practice HTML and CSS fundamentals</h2>
 <img src="/HTML-Fundamentals/materials/small-project.jpg"
 height="400"
-width="700">
+width="500">
 <!-- ![Screenshot] -->
 
 ## [Link to the page 😊](https://html-css-project-kd.netlify.app/)
