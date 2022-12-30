@@ -18,7 +18,7 @@ width="500">
 <p>I made a simple page, which i had to recreate from the project. While doing this page i learned the fundamentals of HTML like links, font styles, oridinary/unordinary lists and inserting an image. </p>
 <h3>Here are the effects:</h3>
 <img src="/HTML-Fundamentals/materials/challengeHTML.jpg"
-height="400"
+height="500"
 width="500">
 
 <h2>CSS Challenge</h2>
