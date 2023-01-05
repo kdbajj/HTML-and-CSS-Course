@@ -11,7 +11,7 @@ body{
    position: relative;
 }
 .container{
-    width: 800px;
+    width: 1200px;
     /* margin-left: auto;
     margin-right: auto;  */
     /* both margins will calculate automatically
@@ -22,7 +22,6 @@ body{
 }
 .main-header{
     background-color: #f7f7f7;
-    background-color: #8b1bb4;
     /* padding: 20px;
     padding-left: 40px;
     padding-right: 40px; */
@@ -269,7 +268,6 @@ h2{
   }
 
   .author{
-    /* padding-left: 80px; */
     margin-top: 10px;
     float: left;
     margin-left: 20px;
@@ -289,4 +287,18 @@ h2{
     clear: both;
     content:"";
     display: block;
+  }
+
+  article{
+    width: 825px;
+    float: left;
+  }
+
+  aside{
+    width: 300px;
+    float: right;
+  }
+
+  footer{
+    clear: both;
   }
