@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body{
@@ -39,8 +40,8 @@ body{
     border-top: 4px solid #b1158d;
     border-bottom: 4px solid #b1158d;
     background-color: #f7f7f7;
-    padding: 50px 0;
-    width: 500px;
+    padding: 50px 40px;
+    box-sizing: border-box;
 }
 
 article{
@@ -104,6 +105,7 @@ h4{
     font-size: 20px;
     text-transform: uppercase;
     text-align: center;
+    margin-bottom: 30px;
 }
 p{
     font-size: 22px;
@@ -139,6 +141,7 @@ li:last-child{
 
 .related-posts{
     list-style: none;
+    margin-left: 0;
 }
 
 /* photos are inline boxes */
