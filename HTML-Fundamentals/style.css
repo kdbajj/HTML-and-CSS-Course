@@ -22,6 +22,7 @@ body{
 }
 .main-header{
     background-color: #f7f7f7;
+    background-color: #8b1bb4;
     /* padding: 20px;
     padding-left: 40px;
     padding-right: 40px; */
@@ -279,4 +280,13 @@ h2{
   }
   nav{
     float: right;
+  }
+  .clear{
+    clear: both;
+  }
+
+  .clearfix::after {
+    clear: both;
+    content:"";
+    display: block;
   }
