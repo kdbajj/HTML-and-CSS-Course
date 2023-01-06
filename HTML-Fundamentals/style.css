@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body{
@@ -11,7 +12,7 @@ body{
    position: relative;
 }
 .container{
-    width: 800px;
+    width: 1200px;
     /* margin-left: auto;
     margin-right: auto;  */
     /* both margins will calculate automatically
@@ -39,8 +40,8 @@ body{
     border-top: 4px solid #b1158d;
     border-bottom: 4px solid #b1158d;
     background-color: #f7f7f7;
-    padding: 50px 0;
-    width: 500px;
+    padding: 50px 40px;
+    box-sizing: border-box;
 }
 
 article{
@@ -104,6 +105,7 @@ h4{
     font-size: 20px;
     text-transform: uppercase;
     text-align: center;
+    margin-bottom: 30px;
 }
 p{
     font-size: 22px;
@@ -139,6 +141,7 @@ li:last-child{
 
 .related-posts{
     list-style: none;
+    margin-left: 0;
 }
 
 /* photos are inline boxes */
@@ -259,3 +262,46 @@ h2{
  than the universal selectors (for example
  body)
  */
+
+  /* FLOATS */
+ 
+  .author-img{
+    float: left;
+    margin-bottom: 20px;
+  }
+
+  .author{
+    margin-top: 10px;
+    float: left;
+    margin-left: 20px;
+  }
+
+  h1{
+    float: left;
+  }
+  nav{
+    float: right;
+  }
+  .clear{
+    clear: both;
+  }
+
+  .clearfix::after {
+    clear: both;
+    content:"";
+    display: block;
+  }
+
+  article{
+    width: 825px;
+    float: left;
+  }
+
+  aside{
+    width: 300px;
+    float: right;
+  }
+
+  footer{
+    clear: both;
+  }
