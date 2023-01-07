@@ -19,7 +19,7 @@ body {
     /* margin-left: auto;
     margin-right: auto; */
     margin: 50px auto;
-    position: relative;
+    /* position: relative; */
     /* box-sizing: border-box; */
 }
 
@@ -52,25 +52,20 @@ body {
 }
 .price{
     font-weight:bold;
-    font-size: 24px;
-    float: left;
+    font-size: 26px;
+    /* float: left; */
 }
 .info{
     text-transform: uppercase;
     color: #535151;
     font-size: 12px;
     font-weight: bold;
-    margin-bottom: 20px;
-    float: right;
     margin-top: 8px;
 }
 .box{
-    margin-top: 30px;
     background-color: #000;
     height: 20px;
     width: 20px;
-    display: inline-block;
-    margin-right: 5px;
     }
 
   .color-black{
@@ -96,8 +91,8 @@ body {
     /* thanks to inline block we can simply add
     margin to elements */
     /* display: inline-block; */
-    float: left;
-    width: 100vh
+    /* float: left; */
+    /* width: 100vh; */
 }
 .more-info:link{
     color: #000;
@@ -124,12 +119,14 @@ body {
 .details li{
     margin: 10px;
 }
+
 .add-cart{
     background-color: #000;
     color: #ffff;
     width: 818px;
     height: 50px;
     text-transform: uppercase;
+    margin: 30px 0px 0px 0;
 }
 .add-cart:hover{
     background-color: #f7f7f7;
@@ -138,29 +135,51 @@ body {
     padding: 15px;
  }
 
- .part1{
+/* FLOATS */
+  .part1{
      width: 200px;
-    float: left;
-    margin-right: 40px;
+    /* float: left; */
     margin-top: 20px;
+    flex: 1;
  }
  .part2{
-    float: left;   
-    width: 200px;
+    /* float: left;    */
+    /* width: 200px; */
     margin-top: 20px;
-
+    flex: 1;
  }
 
 .pic{
-    float: left;
+    /* float: left; */
     margin-right: 40px;
 }
 
 .clearfix::after{
     content: '';
     display: block;
-    clear: both;
+    /* clear: both; */
 }
+
 .container{
-    /* background-color: red; */
+    display: flex;
+    gap: 40px;
 }
+
+/* .part1{
+
+} */ 
+    
+
+.row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.product-colors{
+    display: flex;
+    gap: 10px;
+}
+
+.part1{}
