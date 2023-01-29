@@ -48,7 +48,6 @@ body {
 .short-desc{
     margin-bottom: 10px;
     /* width: 240px; */
-    clear: both;
 }
 .price{
     font-weight:bold;
@@ -60,7 +59,6 @@ body {
     color: #535151;
     font-size: 12px;
     font-weight: bold;
-    margin-top: 8px;
 }
 .box{
     background-color: #000;
@@ -181,5 +179,3 @@ body {
     display: flex;
     gap: 10px;
 }
-
-.part1{}
