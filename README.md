@@ -8,8 +8,8 @@
 
 <h2>The small project where i could practice HTML and CSS fundamentals</h2>
 <img src="/HTML-Fundamentals/materials/small-project.jpg/"
-height="400"
-width="500">
+height="500"
+width="600">
 <!-- ![Screenshot] -->
 
 ## [Link to the page 😊](https://html-css-project-kd.netlify.app/)
