@@ -25,7 +25,7 @@ width="550">
 <p>It's the same page which i made in HTML challenge, but in this 3 challenges i added CSS. While doing this page i learned the fundamentals of CSS like selectors (id, class, element) priority, working with colors and pseudo-classes. I also got to know about adding dimensions, centering page, absolute positioning, types of boxes, pseudo-elements. I practiced developer skills like googling and reading documentation.
 <h3>Here are the effects:</h3>
 <img src="/HTML-Fundamentals/materials/css-challenge.jpg"
-height="720"
-width="1268">
+height="300"
+width="600">
 
 ## [Link to the page 😊](https://warm-bonbon-8a0666.netlify.app/)
