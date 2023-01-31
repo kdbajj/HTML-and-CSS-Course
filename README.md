@@ -26,6 +26,6 @@ width="550">
 <h3>Here are the effects:</h3>
 <img src="/HTML-Fundamentals/materials/css-challenge.jpg"
 height="300"
-width="400">
+width="500">
 
 ## [Link to the page 😊](https://warm-bonbon-8a0666.netlify.app/)
