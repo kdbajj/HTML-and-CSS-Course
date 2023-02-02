@@ -9,7 +9,7 @@
 
 <p> From section 4 i started to write notes in Notion
 
-Link to the notes: <a href ="HTML-Fundamentals/materials/Complete_HTML_and_CSS_Course.pdf">Notes</a></p>
+Link to the notes: <a href ="https://www.notion.so/Complete-HTML-and-CSS-Course-Notes-bd2b9461bd134e2d82aa264a80859b9f">Notes</a></p>
 
 <h2>The small project where i could practice HTML and CSS fundamentals</h2>
 <img src="/HTML-Fundamentals/materials/small-project.jpg/"
