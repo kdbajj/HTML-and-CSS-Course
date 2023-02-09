@@ -36,5 +36,6 @@ width="600">
 ## [Link to the page 😊](https://warm-bonbon-8a0666.netlify.app/)
 
 <h2>Web Design Rules Framework Fundamentals</h2>
+<p>In this section i learned how to implement typography, how to pick perfect size and type of font according to my website's personality. I learned how to choose right colors for the website. I worked with Google Fonts, Coolors and Open Color. That was really interesing and fun to do.</p>
 
 ## [Link to the page 👉](https://quiet-blancmange-d9004d.netlify.app)
