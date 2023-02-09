@@ -38,4 +38,8 @@ width="600">
 <h2>Web Design Rules Framework Fundamentals</h2>
 <p>In this section i learned how to implement typography, how to choose right photos, illustrations and icons, how to pick perfect size and type of font according to website's personality. I learned how to choose right colors for the website. I worked with Google Fonts, Heroicons, Coolors and Open Color. That was really interesing and fun to do.</p>
 
+<img src="/HTML-Fundamentals/materials/designRules.jpg"
+height="900"
+width="1000">
+
 ## [Link to the page 👉](https://quiet-blancmange-d9004d.netlify.app)
