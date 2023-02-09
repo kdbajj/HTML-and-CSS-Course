@@ -1,4 +1,4 @@
-<h3>HTML Challenge</h3>
+<h1>HTML Challenge</h1>
 <p>I made a simple page, which i had to recreate from the project. While doing this page i learned the fundamentals of HTML like links, font styles, oridinary/unordinary lists and inserting an image. </p>
 <h3>Here are the effects:</h3>
 <img src="/HTML-Fundamentals/materials/challengeHTML.jpg"
