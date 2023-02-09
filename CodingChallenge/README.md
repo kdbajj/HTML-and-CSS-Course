@@ -5,7 +5,7 @@
 height="450"
 width="550">
 
-<h3>CSS Challenge</h3>
+<h1>CSS Challenge</h1>
 <p>It's the same page which i made in HTML challenge, but in this 3 challenges i added CSS. While doing this page i learned the fundamentals of CSS like selectors (id, class, element) priority, working with colors and pseudo-classes. I also got to know about adding dimensions, centering page, absolute positioning, types of boxes, pseudo-elements. I practiced developer skills like googling and reading documentation.
 <h3>Here are the effects:</h3>
 <img src="/HTML-Fundamentals/materials/css-challenge.jpg"
