@@ -1,5 +1,5 @@
 <h1>HTML and CSS Fundamentals</h1>
-The small project where i could practice HTML and CSS fundamentals
+<p>The small project where i could practice HTML and CSS fundamentals</p>
 <img src="/HTML-Fundamentals/materials/small-project.jpg/"
 height="500"
 width="600">
