@@ -18,4 +18,4 @@ Link to the notes: <a href ="https://fantastic-memory-3e8.notion.site/Complete-H
 ## [CSS Challenge](https://warm-bonbon-8a0666.netlify.app/)
 
 ## [Web design Fundamentals](https://quiet-blancmange-d9004d.netlify.app)
-<h1>The description about every page that i've made is in individual folder.</h1>
+<h3>❗The description about every page that i've made is in individual folder.</h3>
