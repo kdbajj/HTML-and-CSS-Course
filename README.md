@@ -9,7 +9,7 @@
 
 <p> From section 4 i started to write notes in Notion
 
-Link to the notes: <a href ="https://fantastic-memory-3e8.notion.site/Complete-HTML-and-CSS-Course-Notes-bd2b9461bd134e2d82aa264a80859b9f">Notes</a></p>
+## Link to the notes: <a href ="https://fantastic-memory-3e8.notion.site/Complete-HTML-and-CSS-Course-Notes-bd2b9461bd134e2d82aa264a80859b9f">Notes</a></p>
 
 <h2>Here are the links to all pages that i worked with while doing this course👇</h2>
 
