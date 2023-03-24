@@ -18,4 +18,4 @@
 ## [CSS Challenge](https://warm-bonbon-8a0666.netlify.app/) 👈 Demo here 
 
 ## [Web design Fundamentals](https://quiet-blancmange-d9004d.netlify.app) 👈 Demo here 
-<h3>❗The description about every page that i've made is in individual folder.</h3>
+<h3>❗The detailed descriptions about every page that i've made are in individual folders.</h3>
